@@ -1,0 +1,15 @@
+{
+  "name": "node-kafka-pubsub",
+  "version": "1.0.0",
+  "description": "Generic Kafka client (producer/consumer) with pluggable logging for Node.js",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mranbupk/node-kafka-pubsub.git"
+  },
+  "keywords": ["kafka", "kafkajs", "pubsub", "consumer", "producer"],
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+} 
